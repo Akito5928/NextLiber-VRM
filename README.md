@@ -1,4 +1,3 @@
-# NextLiber-VRM
 # NextLiber VRM (NLV)
 
 **Unity の外側で Unity プロジェクトを動かす。  
