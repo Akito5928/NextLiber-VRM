@@ -1,0 +1,11 @@
+https://news.ycombinator.com/item?id=46775930
+https://qiita.com/savasft5928/items/d39e416ee170b046e216
+https://zenn.dev/akito5928/articles/f7996c68be8c96
+https://dev.to/akito_hayasaka_5a998b52e2/nextliber-vrm-running-unity-projects-outside-the-unity-runtime-5aml
+https://bsky.app/profile/did:plc:fvvt7yxj6tufdogbok2m475x/post/3mdf3xyphdc2g
+https://akito5928.hateblo.jp/entry/2026/01/28/092647
+https://nlv.hashnode.dev/page/main
+https://dev.to/akito_hayasaka_5a998b52e2/unity-as-data-not-a-platform-the-idea-behind-nextliber-vrm-cnn
+https://discussions.unity.com/u/savasft5928/activity/drafts
+https://stackoverflow.com/questions/79877581/how-can-unity-yaml-scene-files-be-interpreted-in-an-external-runtime
+https://akito5928.itch.io/nlv/devlog/1333134/nlv-devlog-1-building-a-unity-external-runtime-from-scratch
